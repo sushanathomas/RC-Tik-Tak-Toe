@@ -1,22 +1,20 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
+# Tik-Tak-Toe
 
-### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
+A tic-tac-toe game project by Sushana Thomas.
 
-### How to submit your code for review:
+## About the Game
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Tic-tac-toe is played on a 3 × 3 grid using X and O. The goal is to place three matching marks in a row, column, or diagonal.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Play
+
+1. Players take turns placing their mark in an empty square.
+2. The first player to complete a row, column, or diagonal wins.
+3. If all nine squares are filled without a winning line, the game ends in a draw.
+
